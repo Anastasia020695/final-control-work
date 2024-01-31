@@ -1,0 +1,14 @@
+C:\Users\missm\OneDrive\Рабочий стол\Итоговая работа\Решение\bin\Debug\net7.0\Решение.exe
+C:\Users\missm\OneDrive\Рабочий стол\Итоговая работа\Решение\bin\Debug\net7.0\Решение.deps.json
+C:\Users\missm\OneDrive\Рабочий стол\Итоговая работа\Решение\bin\Debug\net7.0\Решение.runtimeconfig.json
+C:\Users\missm\OneDrive\Рабочий стол\Итоговая работа\Решение\bin\Debug\net7.0\Решение.dll
+C:\Users\missm\OneDrive\Рабочий стол\Итоговая работа\Решение\bin\Debug\net7.0\Решение.pdb
+C:\Users\missm\OneDrive\Рабочий стол\Итоговая работа\Решение\obj\Debug\net7.0\Решение.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\missm\OneDrive\Рабочий стол\Итоговая работа\Решение\obj\Debug\net7.0\Решение.AssemblyInfoInputs.cache
+C:\Users\missm\OneDrive\Рабочий стол\Итоговая работа\Решение\obj\Debug\net7.0\Решение.AssemblyInfo.cs
+C:\Users\missm\OneDrive\Рабочий стол\Итоговая работа\Решение\obj\Debug\net7.0\Решение.csproj.CoreCompileInputs.cache
+C:\Users\missm\OneDrive\Рабочий стол\Итоговая работа\Решение\obj\Debug\net7.0\Решение.dll
+C:\Users\missm\OneDrive\Рабочий стол\Итоговая работа\Решение\obj\Debug\net7.0\refint\Решение.dll
+C:\Users\missm\OneDrive\Рабочий стол\Итоговая работа\Решение\obj\Debug\net7.0\Решение.pdb
+C:\Users\missm\OneDrive\Рабочий стол\Итоговая работа\Решение\obj\Debug\net7.0\Решение.genruntimeconfig.cache
+C:\Users\missm\OneDrive\Рабочий стол\Итоговая работа\Решение\obj\Debug\net7.0\ref\Решение.dll
